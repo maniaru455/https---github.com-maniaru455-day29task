@@ -1,0 +1,9 @@
+.header {
+  justify-content: space-between;
+}
+
+.add-student {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
